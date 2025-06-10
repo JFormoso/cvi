@@ -12,7 +12,7 @@ You can install the development version of `cvi` from GitHub using:
 
 ```r
 # install.packages("devtools")
-devtools::install_github("yourusername/cvi")
+devtools::install_github("jformoso/cvi")
 ```
 
 ---
